@@ -6,7 +6,7 @@ A MEAN application which lets you find a travel mate to ride with very easily
 * Jiachen Yu (yu.jiac@husky.neu.edu)
 * Viraj Rajopadhye (rajopadhye.v@husky.neu.edu)
 * Priyam Modi (Modi.Pri@husky.neu.edu)
-* Harshit Mandada (mandada.h@husky.neu.edu)
+* Harshit Mandada (mandada.h@northeastern.edu)
 
 ## Project Overview
 
